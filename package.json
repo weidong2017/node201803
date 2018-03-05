@@ -1,0 +1,25 @@
+{
+  "name": "node201803",
+  "version": "1.0.0",
+  "description": "2018年3月nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mime": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weidong2017/node201803.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weidong2017/node201803/issues"
+  },
+  "homepage": "https://github.com/weidong2017/node201803#readme"
+}
